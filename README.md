@@ -11,6 +11,7 @@
 
 ## Example of projects
 <img src= "https://makeagif.com/gif/-bRRwO7?origin=category&source=weird-gifs&order=today&page=1&position=22" width="256" height="" /> 
+<a href="/gif/-bRRwO7" title=""><img src="https://i.makeagif.com/media/5-12-2022/bRRwO7.gif" alt=""></a><div style="font-size:11px;">make <a href="/" title="make a gif">weird GIFs</a> like this at MakeaGif</div>
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/fabienne-lab)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/marie-fabienne-sawadogo/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/fabienne_sawadogo/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Fabiee9)  
